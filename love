@@ -1,0 +1,18 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Love You</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin-top: 50px;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Love You ❤️</h1>
+ </body>
+</html>
